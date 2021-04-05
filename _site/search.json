@@ -3,17 +3,17 @@
     {
       "path": "about.html",
       "title": "About this blog",
-      "description": "Details about the blog",
+      "description": "Analysing language with R",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-05T17:42:07+02:00"
+      "contents": "\r\nAbout\r\nMy name is Steffen. I’m a corpus linguist and an R learner. I created this blog to host tutorials and how-to’s on working with language data in R. Language data can be very tricky to work with, not just for linguists, but also for people in data science or other disciplines with little or no linguistic background knowledge. R has some great packages that makes it easy to do everything that a linguist does. With this blog, I want to bridge linguistics and data science through the magic of R.\r\nI’m an R learner, so please don’t expect my code to be elegant. Definitely do not expect it to be the only solution to a problem. I post about the kinds of problems that I need to solve for my work or research.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-05T18:28:01+02:00"
     },
     {
       "path": "index.html",
       "title": "Analysing language with R",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-05T17:42:08+02:00"
+      "last_modified": "2021-04-05T18:28:02+02:00"
     }
   ],
   "collections": ["posts/posts.json"]

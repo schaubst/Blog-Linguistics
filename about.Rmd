@@ -1,9 +1,15 @@
 ---
 title: "About this blog"
 description: |
-  Details about the blog
+  Analysing language with R
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+# About
+
+My name is Steffen. I'm a corpus linguist and an [R](https://www.r-project.org/) learner. I created this blog to host tutorials and how-to's on working with language data in R. Language data can be very tricky to work with, not just for linguists, but also for people in data science or other disciplines with little or no linguistic background knowledge. R has some great packages that makes it easy to do everything that a linguist does. With this blog, I want to bridge linguistics and data science through the magic of R. 
+
+I'm an [R](https://www.r-project.org/) learner, so please don't expect my code to be elegant. Definitely do not expect it to be the only solution to a problem. I post about the kinds of problems that I need to solve for my work or research.

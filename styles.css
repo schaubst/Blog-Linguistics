@@ -1,0 +1,18 @@
+/* Change apppearance of navigation bar */
+
+.distill-site-nav {
+  /* Change color of the text in nav bar */
+  color: #ffffff; 
+  /* Change background color of nav bar */
+  background-color: #1c4367;
+  /* Change font size of text in nav bar */
+  font-size: 18px;
+  /* Change thickness of text in nav bar */
+  font-weight: 700;
+}
+
+/* Change hover color in nav bar */
+
+.distill-site-nav a:hover {
+  color: #aee5ff;
+}
