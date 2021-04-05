@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Analysing language with R"
 description: |
-  "Analysing language with R is a blog maintained by Steffen Schaub. It includes tutorials and how-to's on using the R programming language and the RStudio environment to analyse language data. Language data can be tricky to work with. This blog wants to help, one post at a time ;o)
+  "Analysing language with R" is a blog maintained by Steffen Schaub. It includes tutorials and how-to's on using the R programming language and the RStudio environment to analyse language data. Language data can be tricky to work with. This blog wants to help, one post at a time ;o)
 author:
   - name: Steffen Schaub, M.A.
     affiliation: University of Hamburg, Germany
