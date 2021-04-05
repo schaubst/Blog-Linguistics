@@ -2,18 +2,18 @@
   {
     "path": "posts/welcome/",
     "title": "Welcome to Analysing language with R",
-    "description": "Welcome to our new blog, Analysing language with R. We hope you enjoy \nreading what we have to say!",
+    "description": "\"Analysing language with R\" is a blog maintained by Steffen Schaub. It includes tutorials and how-to's on using the R programming language and the RStudio environment to analyse language data. Language data can be tricky to work with. This blog wants to help, one post at a time ;o)",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Steffen Schaub, M.A.",
+        "url": {}
       }
     ],
     "date": "2021-04-05",
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-04-05T17:12:03+02:00",
+    "last_modified": "2021-04-05T17:31:39+02:00",
     "input_file": {}
   }
 ]
