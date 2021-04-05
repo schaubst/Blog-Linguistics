@@ -1,26 +1,17 @@
 ---
 title: "Welcome to Analysing language with R"
 description: |
-  Welcome to our new blog, Analysing language with R. We hope you enjoy 
-  reading what we have to say!
+  "Analysing language with R is a blog maintained by Steffen Schaub. It includes tutorials and how-to's on using the R programming language and the RStudio environment to analyse language data. Language data can be tricky to work with. This blog wants to help, one post at a time ;o)
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Steffen Schaub, M.A.
+    affiliation: University of Hamburg, Germany
+    affiliation_url: https://www.slm.uni-hamburg.de/en/iaa/personen/schaub-steffen.html
 date: 04-05-2021
 output:
   distill::distill_article:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating blogs with Distill at:
-# https://rstudio.github.io/distill/blog.html
-
-```
 
 
 
